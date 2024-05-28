@@ -1,0 +1,14 @@
+C:\Users\denze\source\repos\PRG182 Project\bin\Debug\PRG182 Project.exe.config
+C:\Users\denze\source\repos\PRG182 Project\bin\Debug\PRG182 Project.exe
+C:\Users\denze\source\repos\PRG182 Project\bin\Debug\PRG182 Project.pdb
+C:\Users\denze\source\repos\PRG182 Project\obj\Debug\PRG182 Project.csproj.AssemblyReference.cache
+C:\Users\denze\source\repos\PRG182 Project\obj\Debug\PRG182 Project.csproj.CoreCompileInputs.cache
+C:\Users\denze\source\repos\PRG182 Project\obj\Debug\PRG182 Project.exe
+C:\Users\denze\source\repos\PRG182 Project\obj\Debug\PRG182 Project.pdb
+C:\Users\muran\Downloads\All_Projects\1st Year\PRG182\PRG182_Milestone_2[1]\PRG182 Project\bin\Debug\PRG182 Project.exe.config
+C:\Users\muran\Downloads\All_Projects\1st Year\PRG182\PRG182_Milestone_2[1]\PRG182 Project\bin\Debug\PRG182 Project.exe
+C:\Users\muran\Downloads\All_Projects\1st Year\PRG182\PRG182_Milestone_2[1]\PRG182 Project\bin\Debug\PRG182 Project.pdb
+C:\Users\muran\Downloads\All_Projects\1st Year\PRG182\PRG182_Milestone_2[1]\PRG182 Project\obj\Debug\PRG182 Project.csproj.AssemblyReference.cache
+C:\Users\muran\Downloads\All_Projects\1st Year\PRG182\PRG182_Milestone_2[1]\PRG182 Project\obj\Debug\PRG182 Project.csproj.CoreCompileInputs.cache
+C:\Users\muran\Downloads\All_Projects\1st Year\PRG182\PRG182_Milestone_2[1]\PRG182 Project\obj\Debug\PRG182 Project.exe
+C:\Users\muran\Downloads\All_Projects\1st Year\PRG182\PRG182_Milestone_2[1]\PRG182 Project\obj\Debug\PRG182 Project.pdb
